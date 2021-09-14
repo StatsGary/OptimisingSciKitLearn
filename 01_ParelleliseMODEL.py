@@ -59,8 +59,8 @@ for model_it in n_cores:
 # Generate plot of results
 def plot_results(x_val, y_val):
    plt.plot(x_val, y_val, color="blue", linestyle="--", marker="o")
-   plt.xlabel("Run time (secs)")
-   plt.ylabel("Number of cores")
+   plt.xlabel("Number of cores")
+   plt.ylabel("Run time (secs)")
    plt.show() 
    
 plot_results(n_cores, results_list)
