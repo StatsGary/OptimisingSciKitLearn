@@ -1,5 +1,5 @@
 # Optimising SciKit Learn with parallel processing
-<p><a href="https://hutsons-hacks.info/"><img src = "man/figures/ParallelScikitlearn.png"  align="left"></a></p>
+<p><a href="https://hutsons-hacks.info/"><img src = "man/figures/ParallelScikitlearn.png" height="150px" width="100px"  align="left"></a></p>
 
 To follow along with this, not mandatory, but use the environment.yaml to replicate my conda environment. 
 
