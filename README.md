@@ -2,7 +2,12 @@
 
 To follow along with this, not mandatory, but use the environment.yaml to replicate my conda environment. 
 
-# Installation Instructions
+## Contained inside
+
+* [Parallel processing of SciKit Learn ML Models]() - shows how to parallelise a machine learning model to really leverage the power of multiple cores and to make dramatic model improvements in terms of performance and training overhead
+
+
+# Environment Installation Instructions
 
 Install the [Anaconda distribution](https://www.anaconda.com/products/individual), then open *Anaconda prompt*.
 
